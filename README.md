@@ -1,1 +1,1 @@
-Running ADMIXTURE
+# Running ADMIXTURE
